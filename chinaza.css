@@ -1,0 +1,110 @@
+.header-img {
+  background-image: url("assets/background_image.jpg");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 600px;
+}
+
+.nav-item {
+  margin-right: 250px;
+  margin-left: 250px;
+  list-style: none;
+}
+
+.ul-item li {
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+
+.ul-item a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+  font-size: 14px;
+}
+
+.ul-item a:hover {
+  color: rgb(165, 100, 100);
+}
+
+p {
+  text-align: justify;
+}
+
+.services {
+  text-align: center;
+  text-decoration: underline rgb(165, 100, 100);
+  text-decoration-thickness: 1px;
+  color: rgb(165, 100, 100);
+  margin-bottom: 50px;
+}
+
+.button {
+  background-color: white;
+  padding: 10px;
+  border: rgb(165, 100, 100) solid 1px;
+}
+
+button a {
+  text-decoration: none;
+  color: rgb(165, 100, 100);
+}
+
+.all {
+  display: inline-flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.text {
+  width: 75%;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.text1 {
+  width: 75%;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.text2 {
+  width: 75%;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.text3 {
+  width: 75%;
+  text-align: center;
+  margin-left: 40px;
+}
+
+a:link {
+  text-decoration: none;
+  align-content: center;
+}
+
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
+
+.services-text {
+  color: rgb(165, 100, 100);
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.special-services {
+  display: flex;
+  justify-content: space-between;
+}
+
+.services-img {
+  margin-right: 100px;
+}
